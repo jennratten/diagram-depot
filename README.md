@@ -1,6 +1,6 @@
 # Diagrams Depot
 
-Welcome to **Diagrams Depot**! This repository is dedicated to housing architectural diagrams and orchestrations for **Microsoft Fabric** and **Power BI** workflows.
+Welcome to **Diagrams Depot**! This repository is dedicated to architectural diagrams and orchestrations for **data operations** and **analytics** and **AI** workflows.
 
 ## Description
 
@@ -8,7 +8,7 @@ Welcome to **Diagrams Depot**! This repository is dedicated to housing architect
 
 ## Features
 
-- Visual blueprints for Microsoft Fabric and Power BI solutions
+- Visual blueprints for solutions
 - Workflow orchestration diagrams for data pipelines and analytics
 - Modular and reusable diagram components
 - Regular updates and community contributions
